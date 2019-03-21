@@ -14,14 +14,18 @@ def xml_to_csv(path):
         root = tree.getroot()
         print(xml_file)
         for member in root.findall('object'):
+            xmin=member.find('bndbox')[0].text
+            ymin=member.find('bndbox')[1].text
+            xmax=member.find('bndbox')[2].text
+            ymax=member.find('bndbox')[3].text
             value = (root.find('filename').text,
                      int(root.find('size')[0].text),
                      int(root.find('size')[1].text),
                      member[0].text,
-                     int(member[4][0].text),
-                     int(member[4][1].text),
-                     int(member[4][2].text),
-                     int(member[4][3].text)
+                     int(xmin),
+                     int(ymin),
+                     int(xmax),
+                     int(ymax)
                      )
             print(value)
             xml_list.append(value)
