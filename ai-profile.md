@@ -7,9 +7,9 @@ He has worked as AI/ML domain specialist from 2017 to 2020, providing support fo
 **Training/Certifications**
 * Oracle: [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D33966408D750CB3B53F0F98AB2617B85FB486C48036B847547F6AF2E6B4E0BE)
 * Udacity: [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/certificate/Q4P2RR)
-* Google: [Google Cloud Platform Big Data and Machine Learning Fundamentals] (https://www.coursera.org/account/accomplishments/verify/LA6XXCJ8KZXR)
-* Udacity: [Deep Learning Nanodegree Foundation] (https://www.udacity.com/certificate/GPUCT9LU)
-* Coursera: [Mining Massive Datasets - Stanford University] (https://github.com/corradodebari/certification/raw/master/CourseraMmds2015.pdf)
+* Google: [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/LA6XXCJ8KZXR)
+* Udacity: [Deep Learning Nanodegree Foundation](https://www.udacity.com/certificate/GPUCT9LU)
+* Coursera: [Mining Massive Datasets - Stanford University](https://github.com/corradodebari/certification/raw/master/CourseraMmds2015.pdf)
  
 **References to his AI posts/papers**
 * [Oracle AI Blogs](https://blogs.oracle.com/authors/corrado-de-bari)
@@ -24,16 +24,16 @@ He has worked as AI/ML domain specialist from 2017 to 2020, providing support fo
 * [Construction Summit, Phoenix](https://www.linkedin.com/posts/burcinkaplanoglu_oracle-oracle-ai-activity-6608724348582850560-4DpD?utm_source=share&utm_medium=member_desktop)
 * [AI Workshop Rome/Milan](https://www.linkedin.com/posts/corradodebari_overview-su-oracle-data-science-activity-6681467675127906304-jD3m?utm_source=share&utm_medium=member_desktop)
 * [DataScience webinar](https://www.linkedin.com/posts/corradodebari_oracle-cloud-data-science-webinar-activity-6653593525994696705-4t0_?utm_source=share&utm_medium=member_desktop)
-* Webinar Predictive Maintenance
-* #AIRtificialIntelligence: Hackathon with Italy AirForce and Leonardo Finmeccanica
-* Oracle Machine Learning Workshop
-* Oracle Roadshow Rome/Milan
-* Workshop Machine Learning on Oracle DB (Rome/Milan)
-* Oracle Cloud Technologies Days
-* NeurIPS Montreal Conference
-* AI e la Computer Vision @Oracle Cloud Day 2018
-* Dubai Oracle AI Lab for #GITEX2018
-* Workshop: "AI e la Computer Vision (Deep Learning) - BASE"
-* AI & Computer Vision @ University "La Sapienza" - Rome
+* [Webinar Predictive Maintenance](https://www.linkedin.com/posts/corradodebari_predictive-maintenance-with-oracle-dbms-20c-activity-6652879898933239808-rG5t?utm_source=share&utm_medium=member_desktop)
+* [#AIRtificialIntelligence: Hackathon with Italy AirForce and Leonardo Finmeccanica](https://www.linkedin.com/posts/corradodebari_airtificialintelligence-hackathon-oci-activity-6610451656167436288-4gsr?utm_source=share&utm_medium=member_desktop)
+* [Oracle Machine Learning Workshop](https://www.linkedin.com/posts/corradodebari_13-novembre-2019-930-am-200-pm-activity-6592347097385705472-VGV0?utm_source=share&utm_medium=member_desktop)
+* [Oracle Roadshow Rome/Milan](https://www.linkedin.com/posts/corradodebari_autonomousdatabase-oci-activity-6587387879947804672-RFcy?utm_source=share&utm_medium=member_desktop)
+* [Workshop Machine Learning on Oracle DB (Rome/Milan)](https://www.linkedin.com/posts/corradodebari_machine-learning-on-oracle-db-activity-6519865184150921216-EieE?utm_source=share&utm_medium=member_desktop)
+* [Oracle Cloud Technologies Days](https://www.linkedin.com/posts/corradodebari_blockchain-security-businessanalytics-activity-6516375838915596288-MQ8G?utm_source=share&utm_medium=member_desktop)
+* [NeurIPS Montreal Conference](https://www.linkedin.com/posts/corradodebari_deeplearning-ai-machinelearning-activity-6474982303138349056-uvom?utm_source=share&utm_medium=member_desktop)
+* [AI e la Computer Vision @Oracle Cloud Day 2018](https://www.linkedin.com/posts/corradodebari_proximacity-computervision-deeplearning-activity-6472169728323387392-P71-?utm_source=share&utm_medium=member_desktop)
+* [Dubai Oracle AI Lab for #GITEX2018](https://www.linkedin.com/posts/corradodebari_gitex2018-artificialintelligence-deeplearning-activity-6453160224449654784-0qRT?utm_source=share&utm_medium=member_desktop)
+* Workshop: ["AI e la Computer Vision (Deep Learning) - BASE"](https://www.linkedin.com/posts/corradodebari_ai-e-la-computer-vision-deep-learning-activity-6447369649947439104-b1Hj?utm_source=share&utm_medium=member_desktop)
+* [AI & Computer Vision @ University "La Sapienza" - Rome](https://www.linkedin.com/posts/corradodebari_oggi-con-il-collega-alessandro-moro-seminario-activity-6402884026692091904-uxTt?utm_source=share&utm_medium=member_desktop)
  
  
