@@ -30,7 +30,7 @@ He has worked as AI/ML domain specialist from 2017 to 2020, providing support fo
 * Webinar: [Oracle Roadshow Rome/Milan](https://www.linkedin.com/posts/corradodebari_autonomousdatabase-oci-activity-6587387879947804672-RFcy?utm_source=share&utm_medium=member_desktop)
 * Workshop: [Machine Learning on Oracle DB (Rome/Milan)](https://www.linkedin.com/posts/corradodebari_machine-learning-on-oracle-db-activity-6519865184150921216-EieE?utm_source=share&utm_medium=member_desktop)
 * Event: [Oracle Cloud Technologies Days](https://www.linkedin.com/posts/corradodebari_blockchain-security-businessanalytics-activity-6516375838915596288-MQ8G?utm_source=share&utm_medium=member_desktop)
-* Conferences attendee: [NeurIPS Montreal Conference](https://www.linkedin.com/posts/corradodebari_deeplearning-ai-machinelearning-activity-6474982303138349056-uvom?utm_source=share&utm_medium=member_desktop)
+* Conference attendee: [NeurIPS Montreal Conference](https://www.linkedin.com/posts/corradodebari_deeplearning-ai-machinelearning-activity-6474982303138349056-uvom?utm_source=share&utm_medium=member_desktop)
 * Workshop: [AI e la Computer Vision @Oracle Cloud Day 2018](https://www.linkedin.com/posts/corradodebari_proximacity-computervision-deeplearning-activity-6472169728323387392-P71-?utm_source=share&utm_medium=member_desktop)
 * Event:[Dubai Oracle AI Lab for #GITEX2018](https://www.linkedin.com/posts/corradodebari_gitex2018-artificialintelligence-deeplearning-activity-6453160224449654784-0qRT?utm_source=share&utm_medium=member_desktop)
 * Workshop: ["AI e la Computer Vision (Deep Learning) - BASE"](https://www.linkedin.com/posts/corradodebari_ai-e-la-computer-vision-deep-learning-activity-6447369649947439104-b1Hj?utm_source=share&utm_medium=member_desktop)
