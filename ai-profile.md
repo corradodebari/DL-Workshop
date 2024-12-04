@@ -18,7 +18,7 @@ He has worked as AI/ML domain specialist from 2017 to 2020, providing support fo
  
 **List of his activities in AI/ML field in the last 6 years**
 * Webinar: [Java meets Generative AI: Build a knowledge management system with Spring AI](https://www.linkedin.com/posts/corradodebari_springai-springboot-generativeai-activity-7198968604795555840-aXrg?utm_source=share&utm_medium=member_desktop)
-* [AI Book contribution](https://www.linkedin.com/posts/corradodebari_intelligenza-artificiale-e-sicurezza-opportunità-activity-6792364491947429888-GMQZ?utm_source=share&utm_medium=member_desktop)
+* Book: [AI Book contribution](https://www.linkedin.com/posts/corradodebari_intelligenza-artificiale-e-sicurezza-opportunità-activity-6792364491947429888-GMQZ?utm_source=share&utm_medium=member_desktop)
 * Webinar: [ML Webinar](https://www.linkedin.com/posts/corradodebari_oracle-reference-architecture-live-webinar-activity-6790898812652134400-Oa_l?utm_source=share&utm_medium=member_desktop)
 * Talk: [Bocconi University talk](https://www.linkedin.com/posts/corradodebari_machinelearning-deeplearning-oracle-activity-6732714885462945792-98yL?utm_source=share&utm_medium=member_desktop)
 * Event: [Construction Summit, Phoenix](https://www.linkedin.com/posts/burcinkaplanoglu_oracle-oracle-ai-activity-6608724348582850560-4DpD?utm_source=share&utm_medium=member_desktop)
