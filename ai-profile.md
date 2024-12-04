@@ -1,6 +1,6 @@
 As Developer Evangelist in the latest 2 years, he has contributed to these platforms/demo:
-* (Oracle AI Microservices Sandbox)[https://github.com/oracle-samples/oaim-sandbox]
-* Spring AI for RAG on Oracle 23ai
+* [Oracle AI Microservices Sandbox](https://github.com/oracle-samples/oaim-sandbox)
+* [Spring AI for RAG on Oracle 23ai](https://github.com/oracle-devrel/springai-rag-db23ai/)
 He has worked as AI/ML domain specialist from 2017 to 2020, providing support for all deals related to this topic through workshops, proof-of-concepts, demos, and solution design.
  
 **Training/Certifications**
